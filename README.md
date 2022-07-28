@@ -8,7 +8,7 @@
   <img height="100em" 
        src="https://github-readme-stats.vercel.app/api?username=Davidx30&show_icons=true&theme=radical"/>
   <img height="100em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=Dracula"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical"/>
 	  
 <img align="center" alt="Bash" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
