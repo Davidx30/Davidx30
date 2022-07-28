@@ -22,4 +22,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/)
 
-![Snake animation](https://github.com/Davidx30/Davidx30/snake.yml)
+https://skyline.github.com/davidx30/2021
