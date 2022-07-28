@@ -34,7 +34,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitor)
 
-
+[![Diablo](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]
 ![skyline](https://skyline.github.com/davidx30/2021)
 
 
