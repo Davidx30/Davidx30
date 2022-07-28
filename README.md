@@ -22,4 +22,4 @@
 
 [visitors](https://visitor-badge.glitch.me/badge?page_id=yasssuz.todo-app)
 
-![Snake animation](https://github.com/Davidx30/Davidx30/snake.yml)
+![Snake animation](https://github.com/yasssuz/yasssuz/blob/output/github-contribution-grid-snake.svg)
