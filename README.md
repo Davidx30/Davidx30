@@ -2,22 +2,21 @@
 ## Eu sou David criador de conteúdo de programação e tecnologia! 👾
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
-
 
 <a href="https://github.com/Davidx30"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Davidx30&theme=radical&title_color=ff3068"></a>
 <a href="https://github.com/Davidx30"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Davidx30&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical"/>
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Bash" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">	  
-  <img align="right" alt="picture" height="150" style="border-radius:50px;" 
-src="https://media.discordapp.net/attachments/1002426335597166615/1002428789411815486/IMG_20220729_011221_647.jpg?width=676&height=676">
+</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical"/>
+
+
+<div style="display: inline_block"><br> 
+  <img align="right" alt="picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1002426335597166615/1002428789411815486/IMG_20220729_011221_647.jpg?width=676&height=676">
 </div>
 
 <div>
