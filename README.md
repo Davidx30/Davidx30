@@ -1,5 +1,5 @@
 
-## Eu sou David criador de conteúdo de programação e tecnologia! 👾
+## 👾 Bem vindo ao meu GITHUB <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
