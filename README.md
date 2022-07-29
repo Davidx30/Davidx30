@@ -14,5 +14,9 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 <img align="center" alt="Python" height="30" width="40"
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+	  
+	<img align="right" alt="David-pic" height="150" style="border-radius:50px;"
+https://media.discordapp.net/attachments/1002426335597166615/1002428789411815486/IMG_20220729_011221_647.jpg
+</div>
 ![Snake animation](https://github.com/Davidx30/Davidx30/blob/output/github-contribution-grid-snake.svg)
 
