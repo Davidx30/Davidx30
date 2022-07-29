@@ -1,12 +1,12 @@
 
-## Olá Eu sou David criador de conteúdo de programação e tecnologia!
+## Olá , Eu sou David criador de conteúdo de programação e tecnologia!
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <div align="center">
 <a href="https://github.com/Davidx30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidx30&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Davidx30&left_color=green&right_color=red)
