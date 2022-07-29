@@ -6,9 +6,9 @@
 <div align="center">
 <a href="https://github.com/Davidx30">
   <img height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=Davidx30&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Davidx30&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Davidx30&left_color=green&right_color=red)
