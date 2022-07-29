@@ -3,7 +3,8 @@
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<img align="right" width="38%" src="https://tenor.com/view/gif-gid-dedsec-gif-25500481"/>
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+
 
 <a href="https://github.com/Davidx30"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Davidx30&theme=radical&title_color=ff3068"></a>
 <a href="https://github.com/Davidx30"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Davidx30&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
