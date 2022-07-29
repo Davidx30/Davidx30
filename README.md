@@ -16,9 +16,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&lay
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Bash" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">	  
-  <img align="right" alt="David-pic" height="150" style="border-radius:50px;"
-https://media.discordapp.net/attachments/1002426335597166615/1002428789411815486/IMG_20220729_011221_647.jpg
-
+  <img align="right" alt="David-pic" height="150" style="border-radius:50px;" 
+src="https://media.discordapp.net/attachments/1002426335597166615/1002428789411815486/IMG_20220729_011221_647.jpg?width=676&height=676">
 
 ![Snake animation](https://github.com/Davidx30/Davidx30/blob/output/github-contribution-grid-snake.svg)
 
