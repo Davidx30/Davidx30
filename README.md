@@ -11,6 +11,8 @@ src="https://github-readme-stats.vercel.app/api?username=Davidx30&show_icons=tru
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Davidx30&left_color=green&right_color=red)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
