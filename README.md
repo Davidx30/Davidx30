@@ -11,7 +11,7 @@
 <p align="center">
 <div style="display: inline_block"><br>
 <code><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code> <code><img align="center" alt="Bash" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code> <code><img align="center" alt="Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical"/>
 <div style="display: inline_block"><br> 
   <img align="right" alt="picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1002426335597166615/1002428789411815486/IMG_20220729_011221_647.jpg?width=676&height=676">
 </div>
