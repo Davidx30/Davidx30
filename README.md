@@ -27,9 +27,11 @@ Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da ci
 
 ## 🌌 Linguagens Mais Utilizadas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical" alt="Most Used Languages" />
-</div>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 
 ## 🔐 Projetos de Expansão Digital
 
