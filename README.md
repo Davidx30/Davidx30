@@ -51,7 +51,7 @@ Descrição do projeto 2.
 
 ![Projeto 2](images/project-2.png)
 
-## Aprecie uma Gif 🎉
+## "Quando o código finalmente funciona após inúmeras tentativas e você se sente como um verdadeiro mago da programação. 🧙‍♂️✨" 
 
 ![GIF](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?width=400)
 
