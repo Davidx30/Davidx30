@@ -16,7 +16,11 @@ Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da ci
 
 ## 🦠 Linguagens e Ferramentas Hackeáveis
 
-![Languages and Tools](images/languages-tools.png)
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 
 ## 🪐 Estatísticas do Dark Web
 
@@ -27,11 +31,9 @@ Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da ci
 
 ## 🌌 Linguagens Mais Utilizadas
 
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=5&theme=radical" alt="Most Used Languages" />
+</div>
 
 ## 🪙 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
 
@@ -41,8 +43,4 @@ Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da ci
 
 <div align="center">
   <img src="https://github.com/Davidx30/Davidx30/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Davidx30&left_color=green&right_color=red" alt="Visitors Badge" />
 </div>
