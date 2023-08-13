@@ -1,7 +1,5 @@
 # 👾 Bem-vindo à minha realidade virtual! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-![Profile Header](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
 ## 🕶️ Sobre Mim
 
 Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da cibersegurança. Desvendando códigos e desafios em busca da verdade oculta no código binário.
@@ -31,7 +29,7 @@ Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da ci
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=5&theme=radical" alt="Most Used Languages" />
 </div>
 
-## 👾 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón."
+## 👾 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
 
 ![GIF](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?width=400)
 
