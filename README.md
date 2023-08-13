@@ -1,3 +1,4 @@
+<!-- Seção de Introdução -->
 # 👋 Bem-vindo ao meu perfil do GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 ![Profile Header](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
@@ -8,16 +9,19 @@
 
 ## Sobre Mim
 
-Olá! Sou David, um entusiasta de software apaixonado por codificação e construção de soluções criativas. Estou sempre em busca de novos desafios e oportunidades para aprender.
+Olá! Eu sou David, um entusiasta da tecnologia apaixonado por resolver problemas complexos e criar soluções inovadoras. Minha paixão pela tecnologia me levou a explorar diversas áreas, incluindo desenvolvimento de software, segurança cibernética e muito mais.
 
-- 🚀 Atualmente, estou explorando linguagens como Python, C++, TypeScript e muito mais!
-- 🌐 Desenvolvo aplicações web e mobile usando as tecnologias mais recentes.
-- 📚 Também gosto de compartilhar meu conhecimento por meio de blogs e tutoriais.
+- 🚀 Atualmente, estou aprofundando meus conhecimentos em Python, Bash, HTML e CSS.
+- 🔐 Tenho interesse especial no mundo da cibersegurança e estou sempre em busca de desafios intrigantes.
+- 🌐 Adoro explorar novas tecnologias e compartilhar meu aprendizado com a comunidade.
 
-## Linguagens e Ferramentas
+## Tecnologias e Ferramentas
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <!-- Adicione outros ícones aqui -->
 
 ## Estatísticas do GitHub
@@ -33,6 +37,7 @@ Olá! Sou David, um entusiasta de software apaixonado por codificação e constr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical" alt="Most Used Languages" />
 </div>
 
+<!-- Seção de Redes Sociais -->
 ## Me encontre na web 🌎:
 
 <a href="https://www.linkedin.com/in/yourusername/">
@@ -50,6 +55,7 @@ Olá! Sou David, um entusiasta de software apaixonado por codificação e constr
 
 <br/>
 
+<!-- Seção de Projetos Destacados -->
 ## Projetos Destacados
 
 ### Projeto 1: [Nome do Projeto](https://github.com/Davidx30/projeto-1)
@@ -70,6 +76,7 @@ Descrição do projeto 2.
 
 ---
 
+<!-- Seção de Contribuições e Visitantes -->
 <div align="center">
   <img src="https://github.com/Davidx30/Davidx30/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
