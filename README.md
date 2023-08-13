@@ -16,7 +16,9 @@ Olá! Sou David, um entusiasta de software apaixonado por codificação e constr
 
 ## Linguagens e Ferramentas
 
-![Languages and Tools](images/languages-tools.png)
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<!-- Adicione outros ícones aqui -->
 
 ## Estatísticas do GitHub
 
