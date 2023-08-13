@@ -1,5 +1,9 @@
 # 👾 Bem-vindo à minha realidade virtual! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
+<div align="right">
+  <img width="38%" src="https://media.discordapp.net/attachments/1002426335597166615/1002428789411815486/IMG_20220729_011221_647.jpg?width=676&height=676" alt="Profile Image" />
+</div>
+
 ## 🕶️ Sobre Mim
 
 Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da cibersegurança. Desvendando códigos e desafios em busca da verdade oculta no código binário.
@@ -33,8 +37,3 @@ Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da ci
 
 ![GIF](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?width=400)
 
----
-
-<div align="center">
-  <img src="https://github.com/Davidx30/Davidx30/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
