@@ -53,7 +53,7 @@ Descrição do projeto 2.
 
 ## Aprecie uma Gif 🎉
 
-![GIF](https://media.giphy.com/media/your-gif-url.gif)
+![GIF](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?width=400)
 
 ---
 
