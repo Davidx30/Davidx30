@@ -35,7 +35,7 @@ Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da ci
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=5&theme=radical" alt="Most Used Languages" />
 </div>
 
-## 👾"No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
+## 👾 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
 
 ![GIF](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?width=400)
 
