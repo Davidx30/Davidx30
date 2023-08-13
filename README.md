@@ -37,39 +37,6 @@ Olá! Eu sou David, um entusiasta da tecnologia apaixonado por resolver problema
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidx30&layout=compact&langs_count=7&theme=radical" alt="Most Used Languages" />
 </div>
 
-<!-- Seção de Redes Sociais -->
-## Me encontre na web 🌎:
-
-<a href="https://www.linkedin.com/in/yourusername/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/yourusername">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/yourusername/">
-  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
-<a href="https://dev.to/yourusername">
-  <img align="left" alt="Dev.to" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/devto.svg" />
-</a>
-
-<br/>
-
-<!-- Seção de Projetos Destacados -->
-## Projetos Destacados
-
-### Projeto 1: [Nome do Projeto](https://github.com/Davidx30/projeto-1)
-
-Descrição do projeto 1.
-
-![Projeto 1](images/project-1.png)
-
-### Projeto 2: [Nome do Projeto](https://github.com/Davidx30/projeto-2)
-
-Descrição do projeto 2.
-
-![Projeto 2](images/project-2.png)
-
 ## "Quando o código finalmente funciona após inúmeras tentativas e você se sente como um verdadeiro mago da programação. 🧙‍♂️✨"
 
 ![GIF](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?width=400)
