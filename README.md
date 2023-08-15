@@ -35,5 +35,5 @@ Olá, visitante! Eu sou David, um aventureiro digital fascinado pelo mundo da ci
 
 ## 👾 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
 
-![GIF](https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif?width=400)
+![GIF](https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif?width=800?height=200   )
 
