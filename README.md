@@ -37,5 +37,5 @@
 ## 👾 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
 
 <div align="center">
-  <img width="70%" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
+  <img width="50%" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
 </div>
