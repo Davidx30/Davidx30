@@ -8,7 +8,7 @@
 
 E aí, pessoal! Eu sou David, um manipulador de código e segredos na interseção do caos e da ordem. Minha mente é minha ferramenta e o ciberespaço é meu playground.
 
-- 🎭 Navegando entre realidades, desmascarando a ilusão digital.
+- 🛠️ Criando soluções de alta performance com Python, C e habilidades Linux
 - 🎯 Criando soluções disruptivas com Python, C e habilidades Linux.
 - 📣 Compartilhando a verdade e expondo as falhas do sistema.
 
@@ -34,6 +34,6 @@ E aí, pessoal! Eu sou David, um manipulador de código e segredos na interseç�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidElliot&layout=compact&langs_count=5&theme=radical" alt="Most Used Languages" />
 </div>
 
-## ⚙️ "Na cacofonia digital, sou a voz sussurrante que revela a verdade nas entranhas do sistema." 🌌
+## 🔓 "Nas linhas de código, encontro a minha voz. Em cada sistema, desvendo a sua alma." 🌐
 
 ![GIF](https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif)
