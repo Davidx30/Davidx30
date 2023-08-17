@@ -1,7 +1,7 @@
 # 👾 Bem-vindo à minha realidade virtual! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 <div align="right">
-  <img width="38%" src="https://media.discordapp.net/attachments/1002426335597166615/1002428789411815486/IMG_20220729_011221_647.jpg?width=676&height=676" alt="Profile Image" />
+  <img width="38%" src="https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif" alt="Profile Image" />
 </div>
 
 ## 🕶️ Sobre Mim
