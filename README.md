@@ -1,10 +1,10 @@
 # 🎥 Bem-vindo ao meu mundo distorcido! 🕶️
 
 <div align="center">
-  <img width="50%" src="https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif">
+  <img width="70%" src="https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif">
 </div>
 
-## 🎩  Sobre Mim
+## 🎩 Sobre Mim
 
 - 🛠️ Criando soluções de alta performance com Python, C e habilidades Linux
 - 🎯 Criando soluções disruptivas com Python, C e habilidades Linux.
@@ -36,4 +36,6 @@
 
 ## 👾 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
 
-![GIF](https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif?width=500)
+<div align="center">
+  <img width="70%" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
+</div>
