@@ -4,11 +4,13 @@
   <img width="50%" src="https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif">
 </div>
 
-## 🎩 Perfil do Hacker Revolucionário
+## 🎩  Sobre Mim
 
 - 🛠️ Criando soluções de alta performance com Python, C e habilidades Linux
 - 🎯 Criando soluções disruptivas com Python, C e habilidades Linux.
 - 📣 Compartilhando a verdade e expondo as falhas do sistema.
+- 🌐 Atualmente explorando as fronteiras da cibersegurança e do hacking ético.
+
 
 ## 💻 Habilidades e Ferramentas 
 
