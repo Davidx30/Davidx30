@@ -11,8 +11,7 @@
 - 📣 Compartilhando a verdade e expondo as falhas do sistema.
 - 🌐 Atualmente explorando as fronteiras da cibersegurança e do hacking ético.
 
-
-## 💻 Habilidades e Ferramentas 
+## 💻 Habilidades e Ferramentas
 
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
@@ -37,5 +36,5 @@
 ## 👾 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
 
 <div align="center">
-  <img width="50%" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
+  <img width="70%" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
 </div>
