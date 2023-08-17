@@ -6,13 +6,11 @@
 
 ## 🎩 Perfil do Hacker Revolucionário
 
-E aí, pessoal! Eu sou David, um manipulador de código e segredos na interseção do caos e da ordem. Minha mente é minha ferramenta e o ciberespaço é meu playground.
-
 - 🛠️ Criando soluções de alta performance com Python, C e habilidades Linux
 - 🎯 Criando soluções disruptivas com Python, C e habilidades Linux.
 - 📣 Compartilhando a verdade e expondo as falhas do sistema.
 
-## 💻 Habilidades e Ferramentas de Hack
+## 💻 Habilidades e Ferramentas 
 
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
