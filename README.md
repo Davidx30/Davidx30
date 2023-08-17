@@ -1,38 +1,39 @@
-# 🎭 Bem-vindo ao meu mundo caótico e digital! 🖥️
+# 🎥 Bem-vindo ao meu mundo distorcido! 🕶️
 
 <div align="center">
   <img width="50%" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="Party Blob">
 </div>
 
-## 🎩 Perfil do Hacker Insurgente
+## 🎩 Perfil do Hacker Revolucionário
 
-E aí, amigo. Eu sou David, um agente digital operando nas sombras do ciberespaço. Meus códigos são armas e meus alvos são as injustiças do sistema.
+E aí, pessoal! Eu sou David, um manipulador de código e segredos na interseção do caos e da ordem. Minha mente é minha ferramenta e o ciberespaço é meu playground.
 
-- 🕶️ Desafiando as barreiras do poder, revelando a verdade oculta.
-- 🌐 Construindo soluções de disrupção com Python, C e Linux.
-- 📚 Compartilhando conhecimento para despertar a revolução.
+- 🎭 Navegando entre realidades, desmascarando a ilusão digital.
+- 🎯 Criando soluções disruptivas com Python, C e habilidades Linux.
+- 📣 Compartilhando a verdade e expondo as falhas do sistema.
 
-## 🔐 Habilidades e Ferramentas Revolucionárias
+## 💻 Habilidades e Ferramentas de Hack
 
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 
-## 🌃 Revolução Cibernética
+## 🌐 Objetivos Ambiciosos
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidInsurgent&theme=radical&title_color=ff3068" alt="GitHub Stats" width="49%" />
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=DavidInsurgent&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidElliot&theme=radical&title_color=ff3068" alt="GitHub Stats" width="49%" />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=DavidElliot&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak" width="49%" />
 </div>
 
-## 📡 Linguagens do Caos
+## 🕵️‍♂️ Linguagens Decodificadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidInsurgent&layout=compact&langs_count=5&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidElliot&layout=compact&langs_count=5&theme=radical" alt="Most Used Languages" />
 </div>
 
-## 🏴‍☠️ "No labirinto de zeros e uns, sou o anarquista digital que luta contra os gigantes do poder." 🌐
+## ⚙️ "Na cacofonia digital, sou a voz sussurrante que revela a verdade nas entranhas do sistema." 🌌
 
 ![GIF](https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif)
