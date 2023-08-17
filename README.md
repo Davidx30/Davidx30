@@ -1,7 +1,7 @@
 # 🎥 Bem-vindo ao meu mundo distorcido! 🕶️
 
 <div align="center">
-  <img width="70%" src="https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif">
+  <img width="50%" src="https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif">
 </div>
 
 ## 🎩 Sobre Mim
@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidElliot&theme=radical&title_color=ff3068" alt="GitHub Stats" width="49%" />
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=DavidElliot&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak" width="49%" />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=David&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak" width="49%" />
 </div>
 
 ## 🌌 Linguagens Mais Utilizadas
@@ -36,5 +36,5 @@
 ## 👾 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
 
 <div align="center">
-  <img width="70%" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
+  <img width="40%" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
 </div>
