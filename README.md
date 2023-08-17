@@ -1,7 +1,7 @@
 # 🎥 Bem-vindo ao meu mundo distorcido! 🕶️
 
 <div align="center">
-  <img width="50%" src="https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif">
+  <img width="40%" src="https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif">
 </div>
 
 ## 🎩 Sobre Mim
@@ -36,5 +36,5 @@
 ## 👾 "No mundo virtual, somos todos zeros e uns. Mas algumas mentes brilham com código de neón." 🎮
 
 <div align="center">
-  <img width="40%" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
+  <img width="20%" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
 </div>
