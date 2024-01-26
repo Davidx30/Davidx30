@@ -1,7 +1,7 @@
 # 🎥 Bem-vindo ao meu mundo distorcido! 🕶️
 
 <div align="center">
-  <img width="40%" src="https://media.discordapp.net/attachments/1002426335597166615/1141810069860782240/growling-wolf-terror-oodtbncbyq73fyux.gif">
+  <img width="40%" src="https://media.discordapp.net/attachments/1002426335597166615/1140605787899707452/download.png">
 </div>
 
 ## 🎩 Sobre Mim
