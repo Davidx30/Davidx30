@@ -1,7 +1,7 @@
 # 🎥 Bem-vindo ao meu mundo distorcido! 🕶️
 
 <div align="center">
-  <img width="40%" src="https://media.giphy.com/media/y5W98cY6OCudO/giphy.gif">
+  <img width="70%" src="https://media.giphy.com/media/y5W98cY6OCudO/giphy.gif">
 </div>
 
 ## 🎩 Sobre Mim
