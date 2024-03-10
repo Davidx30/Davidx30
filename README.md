@@ -52,6 +52,7 @@
   <img alt="Tor Browser" src="https://img.shields.io/badge/-Tor_Browser-7D4698?style=flat-square&logo=tor-browser&logoColor=white" height="20" />
 </p>
 
+## Ambientes de Teste Controlados 💿
 
 [![Testado em](https://img.shields.io/badge/Testado%20em-Termux,%20Kali%20Linux,%20Ubuntu,%20Parrot%20OS,%20Debian,%20ANDRAX%20Mobile-%23ff69b4.svg?style=plastic)](https://github.com/...)
 
