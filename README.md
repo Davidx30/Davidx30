@@ -13,4 +13,4 @@
 [![Estatísticas do GitHub](https://github-readme-stats-q2ta.vercel.app/api?username=DavidX30&show_icons=true&theme=chartreuse-dark)](https://github.com/DavidX30)
 
 ## Linguagens Mais Utilizadas
-[![Top Langs](https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=DavidX30&layout=compact&theme=tokyonight&cache_seconds=3200)](https://github.com/DavidX30)
+[![Top Langs](https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=DavidX30&layout=compact&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/DavidX30)
