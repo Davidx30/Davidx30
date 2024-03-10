@@ -32,9 +32,6 @@
    <code><a href="https://www.linux.org/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px"></a></code>
 </p>
 
-
-  <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-</p>
 <br/>
 
 ## <img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"> Sistemas Operacionais <img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
