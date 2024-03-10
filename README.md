@@ -24,3 +24,9 @@
 
 ## Linguagens Mais Utilizadas
 [![Top Langs](https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=DavidX30&layout=compact&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/DavidX30)
+
+## ❗ Languages ❗
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter"  style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ </p>
