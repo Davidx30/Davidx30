@@ -41,9 +41,9 @@
 ## Ferramentas e Anonimato
 
 <p align="center">
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Tor Browser" src="https://img.shields.io/badge/-Tor_Browser-7D4698?style=flat-square&logo=tor-browser&logoColor=white" />
-  <img alt="Tails" src="https://img.shields.io/badge/-Tails-56347C?style=flat-square&logo=tails&logoColor=white" />
-  <img alt="Qubes OS" src="https://img.shields.io/badge/-Qubes_OS-005577?style=flat-square&logo=qubes-os&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="20" />
+  <img alt="Tor Browser" src="https://img.shields.io/badge/-Tor_Browser-7D4698?style=flat-square&logo=tor-browser&logoColor=white" height="20" />
+  <img alt="Tails" src="https://img.shields.io/badge/-Tails-56347C?style=flat-square&logo=tails&logoColor=white" height="20" />
+  <img alt="Qubes OS" src="https://img.shields.io/badge/-Qubes_OS-005577?style=flat-square&logo=qubes-os&logoColor=white" height="20" />
 </p>
 
