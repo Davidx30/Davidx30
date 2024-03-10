@@ -7,8 +7,7 @@
 📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
  <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
 </p></center>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DavidX30&layout=compact&theme=chartreuse-dark" />
-<p align="center"> 
+
 
 
 ##
