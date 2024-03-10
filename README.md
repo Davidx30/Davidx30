@@ -4,6 +4,13 @@
 ## Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u4lggltqiboceh6h3tssdk2msa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
+ <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
+</p></center>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DavidX30&layout=compact&theme=chartreuse-dark" />
+<p align="center"> 
+
+
 ##
 ## Projetos Destacados
 <a href="https://github.com/DavidX30/keymon"><img title="Keymon" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=keymon&theme=chartreuse-dark"></a>
