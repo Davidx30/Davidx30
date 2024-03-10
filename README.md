@@ -53,3 +53,6 @@
 </p>
 
 
+[![Testado em](https://img.shields.io/badge/Testado%20em-Termux,%20Kali%20Linux,%20Ubuntu,%20Parrot%20OS,%20Debian,%20ANDRAX%20Mobile-%23ff69b4.svg?style=plastic)](https://github.com/...)
+
+
