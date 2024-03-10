@@ -45,5 +45,8 @@
   <img alt="Tor Browser" src="https://img.shields.io/badge/-Tor_Browser-7D4698?style=flat-square&logo=tor-browser&logoColor=white" height="20" />
   <img alt="Tails" src="https://img.shields.io/badge/-Tails-56347C?style=flat-square&logo=tails&logoColor=white" height="20" />
   <img alt="Qubes OS" src="https://img.shields.io/badge/-Qubes_OS-005577?style=flat-square&logo=qubes-os&logoColor=white" height="20" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" height="20" />
+  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="20" />
 </p>
+
 
