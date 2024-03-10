@@ -42,9 +42,8 @@
 
 <p align="center">
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Termux" src="https://img.shields.io/badge/-Termux-1E272E?style=flat-square&logo=termux&logoColor=white" />
-  <img alt="Tmux" src="https://img.shields.io/badge/-Tmux-1E272E?style=flat-square&logo=tmux&logoColor=white" />
-  <img alt="Oh My Zsh" src="https://img.shields.io/badge/-Oh_My_Zsh-1E272E?style=flat-square&logo=zsh&logoColor=white" />
-  <img alt="Zsh" src="https://img.shields.io/badge/-Zsh-1E272E?style=flat-square&logo=zsh&logoColor=white" />
+  <img alt="Tor Browser" src="https://img.shields.io/badge/-Tor_Browser-7D4698?style=flat-square&logo=tor-browser&logoColor=white" />
+  <img alt="Tails" src="https://img.shields.io/badge/-Tails-56347C?style=flat-square&logo=tails&logoColor=white" />
+  <img alt="Qubes OS" src="https://img.shields.io/badge/-Qubes_OS-005577?style=flat-square&logo=qubes-os&logoColor=white" />
 </p>
 
