@@ -42,4 +42,9 @@
 
 <p align="center">
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Termux" src="https://img.shields.io/badge/-Termux-1E272E?style=flat-square&logo=termux&logoColor=white" />
+  <img alt="Tmux" src="https://img.shields.io/badge/-Tmux-1E272E?style=flat-square&logo=tmux&logoColor=white" />
+  <img alt="Oh My Zsh" src="https://img.shields.io/badge/-Oh_My_Zsh-1E272E?style=flat-square&logo=zsh&logoColor=white" />
+  <img alt="Zsh" src="https://img.shields.io/badge/-Zsh-1E272E?style=flat-square&logo=zsh&logoColor=white" />
 </p>
+
