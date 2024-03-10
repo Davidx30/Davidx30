@@ -38,7 +38,7 @@
 </p>
 <br/>
 
-## Sistemas Operacionais <img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+## <img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"> Sistemas Operacionais <img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
 
 <p align="center">
   <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" height="20" />
