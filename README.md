@@ -3,8 +3,8 @@
 
 ##
 ## Projetos Destacados
-<a href="https://github.com/DavidX30/keymon"><img title="Keymon" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=keymon&theme=radical"></a>
-<a href="https://github.com/DavidX30/Gerenciador-de-Pacotes-Grafico"><img title="Gerenciador de Pacotes Gráfico" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Gerenciador-de-Pacotes-Grafico&theme=radical"></a>
+<a href="https://github.com/DavidX30/keymon"><img title="Keymon" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=keymon&theme=chartreuse-dark"></a>
+<a href="https://github.com/DavidX30/Gerenciador-de-Pacotes-Grafico"><img title="Gerenciador de Pacotes Gráfico" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Gerenciador-de-Pacotes-Grafico&theme=chartreuse-dark"></a>
 <a href="https://github.com/DavidX30/Mouse_Geometry"><img title="Mouse Geometry" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Mouse_Geometry&theme=chartreuse-dark"></a>
 <a href="https://github.com/DavidX30/Mini_server_local"><img title="Mini Server Local" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Mini_server_local&theme=chartreuse-dark"></a>
 <a href="https://github.com/DavidX30/Janela_Pixel_Dev"><img title="Janela Pixel Dev" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Janela_Pixel_Dev&theme=chartreuse-dark"></a>
