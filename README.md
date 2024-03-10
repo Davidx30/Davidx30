@@ -45,7 +45,7 @@
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="20" />
 </p>
 
-## Privacidade e Anonimato <img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash.svg">
+## Privacidade e Anonimato
 
 <p align="center">
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="20" />
