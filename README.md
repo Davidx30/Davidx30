@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Olá+Geeks++%F0%9F%91%8B;Eu+sou+DavidX30" alt="Typing SVG" /></a>
-<p align="center"><img src="https://user-images.githubusercontent.com/46929618/150071352-0321e505-255d-4034-b884-fb166cc7e488.gif" alt="Bt">
+<p align="center">
   
 ## Projetos Destacados
 <a href="https://github.com/DavidX30/keymon"><img title="Keymon" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=keymon&theme=radical"></a>
