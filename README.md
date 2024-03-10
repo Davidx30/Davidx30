@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Olá+amigo++%F0%9F%91%8B;Eu+sou+DavidX30" alt="Typing SVG" /></a>
 <p align="center"><img src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif" alt="Bt">
 
+## Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u4lggltqiboceh6h3tssdk2msa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ##
