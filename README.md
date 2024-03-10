@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Olá+Geeks++%F0%9F%91%8B;Eu+sou+DavidX30" alt="Typing SVG" /></a>
-<p align="center"><img src="https://user-images.githubusercontent.com/46929618/150071352-0321e505-255d-4034-b884-fb166cc7e488.gif](https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif)" alt="Bt">
+<p align="center"><img src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif" alt="Bt">
 
 ##
 ## Projetos Destacados
