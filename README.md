@@ -7,7 +7,7 @@
 <a href="https://github.com/DavidX30/Gerenciador-de-Pacotes-Grafico"><img title="Gerenciador de Pacotes Gráfico" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Gerenciador-de-Pacotes-Grafico&theme=radical"></a>
 <a href="https://github.com/DavidX30/Mouse_Geometry"><img title="Mouse Geometry" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Mouse_Geometry&theme=tokyonight"></a>
 <a href="https://github.com/DavidX30/Mini_server_local"><img title="Mini Server Local" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Mini_server_local&theme=tokyonight"></a>
-<a href="https://github.com/DavidX30/Janela_Pixel_Dev"><img title="Janela Pixel Dev" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Janela_Pixel_Dev&theme=dracula"></a>
+<a href="https://github.com/DavidX30/Janela_Pixel_Dev"><img title="Janela Pixel Dev" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=Janela_Pixel_Dev&theme=chartrruse-dark"></a>
 
 ## Estatísticas
 [![Estatísticas do GitHub](https://github-readme-stats-q2ta.vercel.app/api?username=DavidX30&show_icons=true&theme=chartreuse-dark)](https://github.com/DavidX30)
