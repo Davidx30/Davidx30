@@ -14,7 +14,7 @@
   </a>
 </p>
 
-##  𝚅𝙸𝚂𝙸𝚃ANTES  🚪  
+##   𝚅𝙸𝚂𝙸𝚃𝙰𝙽𝚃𝙴𝚂 🚪  
 <p align="center">
   <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
 </p>
