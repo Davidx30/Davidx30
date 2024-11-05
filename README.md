@@ -11,11 +11,7 @@ Sou um entusiasta da tecnologia da informação, focado em engenharia de softwar
 
 
 
-## Spotify Playing 🎧
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31u4lggltqiboceh6h3tssdk2msa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-  </a>
+
 </p>
 
 ## Projetos Destacados
