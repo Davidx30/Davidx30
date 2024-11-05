@@ -14,12 +14,6 @@ Sou um entusiasta da tecnologia da informação, focado em engenharia de softwar
 
 </p>
 
-## Projetos Destacados
-<p align="center">
-  <a href="https://github.com/DavidX30/keymon">
-    <img title="Keymon" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=DavidX30&repo=keymon&theme=chartreuse-dark" />
-  </a>
-</p>
 
 ## Experiência Profissional
 - **Engenheiro de Software**: Desenvolvimento e manutenção de aplicações em Java e Python, com foco em integração de sistemas e otimização de processos.
@@ -30,17 +24,4 @@ Sou um entusiasta da tecnologia da informação, focado em engenharia de softwar
 - **Ferramentas de Dados**: Power BI, Excel
 - **Sistemas Operacionais**: Windows, Linux, Android
 
-## Estatísticas
-<p align="center">
-  <a href="https://github.com/DavidX30">
-    <img src="https://github-readme-stats-q2ta.vercel.app/api?username=DavidX30&show_icons=true&theme=chartreuse-dark" alt="Estatísticas do GitHub" />
-  </a>
-</p>
-
-## Linguagens Mais Utilizadas
-<p align="center">
-  <a href="https://github.com/DavidX30">
-    <img src="https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=DavidX30&layout=compact&theme=chartreuse-dark&cache_seconds=3200" alt="Linguagens Mais Utilizadas" />
-  </a>
-</p>
 
