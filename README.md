@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Olá+profissionais++%F0%9F%91%8B;Eu+sou+DavidX30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hello+Friend++%F0%9F%91%8B;" alt="Typing SVG" />
 </a>
 
 <p align="center" style="width: 100%;">
@@ -9,14 +9,7 @@
 ## Sobre Mim
 Sou um entusiasta da tecnologia da informação, focado em engenharia de software e análise de dados. Tenho experiência em desenvolvimento de sistemas para plataformas Windows, Linux e Android, utilizando diversas ferramentas e linguagens.
 
-## Índice
-- [Spotify Playing 🎧](#spotify-playing)
-- [Projetos Destacados](#projetos-destacados)
-- [Experiência Profissional](#experiência-profissional)
-- [Habilidades](#habilidades)
-- [Estatísticas](#estatísticas)
-- [Linguagens Mais Utilizadas](#linguagens-mais-utilizadas)
-- [Contatos](#contatos)
+
 
 ## Spotify Playing 🎧
 <p align="center">
